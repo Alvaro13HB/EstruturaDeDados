@@ -1,1 +1,1 @@
-Exercícios passados na primeira aula de Estrutura de Dados (23/02/2024).
+Tudo que eu fizer nas aulas de Estrutura de Dados ficam aqui :)
